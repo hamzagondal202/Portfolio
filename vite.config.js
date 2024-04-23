@@ -5,7 +5,7 @@ import react from "@vitejs/plugin-react";
 export default defineConfig({
   plugins: [react()],
   server: {
-    port: 3002, // Change the port number here
+    port: 3003, // Change the port number here
   },
   build: {
     rollupOptions: {
