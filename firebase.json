@@ -14,7 +14,7 @@
         "headers": [
           {
             "key": "Content-Type",
-            "value": "application/javascript"
+            "value": "text/javascript"
           }
         ]
       }
