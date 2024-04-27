@@ -8,6 +8,7 @@ export default defineConfig({
     port: 3003, // Change the port number here
   },
   build: {
+    outDir: "build",
     rollupOptions: {
       input: {
         main: "./src/main.jsx", // Update the input entry point if necessary
