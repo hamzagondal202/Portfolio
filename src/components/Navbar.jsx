@@ -5,7 +5,7 @@ import { Link } from "react-router-dom";
 import { styles } from "../styles";
 import { navLinks } from "../constants";
 import { menu, close } from "../assets/tech";
-import logo from "../assets/tech/profile.jpg";
+import logo from "/Portfolio/src/assets/tech/profile.jpg";
 
 const Navbar = () => {
   const [active, setActive] = useState("");
