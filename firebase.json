@@ -10,7 +10,7 @@
     ],
     "headers": [
       {
-        "source": "*.jsx",
+        "source": "**/*.jsx",
         "headers": [
           {
             "key": "Content-Type",
