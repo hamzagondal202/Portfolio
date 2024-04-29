@@ -12,7 +12,7 @@ export default defineConfig({
     outDir: "build",
     rollupOptions: {
       input: {
-        main: "./src/main.jsx", // Update the input entry point if necessary
+        main: "/src/main.jsx", // Update the input entry point if necessary
       },
     },
   },
